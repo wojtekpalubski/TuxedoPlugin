@@ -1,0 +1,1 @@
+# Plugin do parsowania plików konfiguracyjnych tuxedo
